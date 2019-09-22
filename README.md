@@ -5,4 +5,4 @@ Needs GoldenEye Anticheat and PocketCoord to work.
 
 ## What is BrokenPig
 
-BrokenPig
+BrokenPig is a fast packet transfer used for running GoldenEye anticheat, for a better performance.
