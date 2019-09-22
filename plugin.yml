@@ -1,0 +1,6 @@
+name: BrokenPig
+version: 1.0-PIG
+api: 3.0.0
+main: generalmc\Main
+author: ArchonKlaus
+depends: [GoldenEye, PocketCoord]
